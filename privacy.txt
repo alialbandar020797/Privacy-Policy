@@ -76,7 +76,8 @@ Permissions are requested contextually and never forced. You can change them any
 ─────────────────────────────────────────────
 
 7. CONTACT  
-For privacy concerns or requests:  
+For privacy concerns or to request deletion of your data 
+(including AI chats, notes, or location info), email us at:  
 ✉️ johntrek120@gmail.com
 
 ═══════════════════════════════════════════
@@ -188,3 +189,4 @@ Thank you for choosing Cozy Rain for your relaxation journey! 🌧️
 ═══════════════════════════════════════════''';
   }
 }
+
