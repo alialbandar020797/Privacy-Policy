@@ -1,0 +1,190 @@
+📄 PRIVACY POLICY
+Last updated: August 1, 2025
+
+═══════════════════════════════════════════
+
+1. INFORMATION WE COLLECT  
+We respect your privacy and are committed to protecting your data. We may collect the following information:
+
+• Anonymous usage statistics and behavior through Firebase Analytics  
+• Event tracking (e.g., which sounds are played, time spent on features)  
+• Sound preferences and app settings  
+• Subscription and free trial status (e.g., plan type, cancellation status)  
+• Crash logs and device diagnostics (via Firebase Crashlytics)  
+• Device type, OS version, model (for compatibility and performance)  
+• Notification and permission settings (to personalize alerts and functionality)  
+• Approximate or precise location (only if user grants permission, used for weather only)  
+• User-generated content such as notes, tasks, and AI chat messages  
+• Questions or messages sent to the AI assistant (used anonymously to improve AI quality)  
+• We do NOT collect or store payment method details – all purchases are processed by Google Play  
+
+─────────────────────────────────────────────
+
+2. HOW WE USE YOUR INFORMATION  
+
+• Enable core app features including sound playback, alarms, tasks, notes, and weather  
+• Personalize your experience based on your sound and feature usage  
+• Monitor app performance, fix bugs, and improve usability through analytics  
+• Deliver weather updates based on your location (if granted)  
+• Store and sync your notes, tasks, and AI chat sessions  
+• Analyze which features are most used to help improve app content and design  
+• Track subscription and free trial eligibility to offer the correct plans  
+• Improve AI performance by learning from user input (in an anonymized way)  
+
+─────────────────────────────────────────────
+
+3. PERMISSIONS  
+
+The app may request the following permissions to enable optional functionality:
+
+• Location Access – for accurate weather updates (only accessed if permission granted)  
+• Notification Access – to send alarms, daily quotes, water reminders, and alerts  
+• Background Activity – to enable reminders even when the app is closed  
+• Network Access – required to fetch weather data, quotes, and AI chat responses  
+
+Permissions are requested contextually and never forced. You can change them anytime in device settings.
+
+─────────────────────────────────────────────
+
+4. DATA SHARING  
+
+• We do not sell personal data to third parties  
+• We may share anonymized data with analytics providers (e.g., Firebase)  
+• We only share personal data when legally required  
+• We use third-party services like Firebase and OpenAI to deliver and improve app features  
+• All shared data is anonymized and not linked to your identity unless required for functionality
+
+─────────────────────────────────────────────
+
+5. DATA SECURITY  
+
+• Data is encrypted and stored securely  
+• We use industry-standard security practices  
+• Regular internal audits are performed  
+• User data (e.g., notes or tasks) is protected and never shared without consent  
+
+─────────────────────────────────────────────
+
+6. YOUR RIGHTS  
+
+• You may request access, correction, or deletion of your data  
+• You can opt out of analytics or tracking  
+• You can update notification and location permissions in your device settings  
+• You may request deletion of your AI chat history, notes, and subscription data  
+• You may request details on how your data was used to improve services  
+
+─────────────────────────────────────────────
+
+7. CONTACT  
+For privacy concerns or requests:  
+✉️ johntrek120@gmail.com
+
+═══════════════════════════════════════════
+
+TERMS OF SERVICE  
+═══════════════════════════════════════════
+
+1. LICENSE  
+You are granted a personal, non-transferable license to use the Cozy Rain app for relaxation, productivity, and wellness purposes.
+
+─────────────────────────────────────────────
+
+2. ACCEPTABLE USE  
+
+• Use the app only as intended  
+• Do not reverse engineer or tamper with app functionality  
+• Do not copy, extract, or redistribute audio or visual content  
+• Do not use the app to violate laws or terms  
+
+─────────────────────────────────────────────
+
+3. CONTENT  
+
+• All audio and visual content is licensed for personal use only  
+• Recording, resale, or redistribution is prohibited  
+• AI chat, notes, and task features are for personal use only  
+
+─────────────────────────────────────────────
+
+4. SUBSCRIPTIONS & PAYMENTS  
+
+GOOGLE PLAY COMPLIANCE NOTICE:  
+• Cozy Rain offers premium subscriptions with the following plans:  
+  • Monthly: 7-day free trial, then \$8.00/month  
+  • Yearly Premium: \$59.99/year  
+  • Lifetime Premium: \$99.99 one-time payment  
+
+FREE TRIAL TERMS:  
+• Monthly includes a 7-day free trial  
+• Cancel anytime during the trial to avoid charges  
+• After 7 days, your subscription auto-renews unless canceled  
+• You retain access to premium features during trial even if canceled early  
+
+SUBSCRIPTION TERMS:  
+• Payments are processed securely by Google Play  
+• Subscriptions renew unless canceled at least 24 hours before end of billing cycle  
+• Cancel anytime through your Google Play account settings  
+• No refunds for partial periods  
+
+AUTO-RENEWAL DETAILS:  
+• Monthly subscriptions renew every 30 days  
+• Yearly subscriptions renew every 365 days  
+• Lifetime purchases are one-time only  
+
+REFUND POLICY:  
+• Refunds follow Google Play’s policies  
+• Contact Google Play Support for refund requests  
+• We cannot process refunds directly  
+
+TRIAL CONVERSION TRACKING:  
+• We track trial starts and conversions to improve service and pricing  
+• All tracking follows this privacy policy  
+
+─────────────────────────────────────────────
+
+5. LIMITATION OF LIABILITY  
+
+• The app is provided “as is” without warranties  
+• We are not liable for damages from app use  
+• Total liability is limited to the amount paid by the user (if any)  
+
+─────────────────────────────────────────────
+
+6. CHANGES TO TERMS  
+
+• We may update these terms periodically  
+• Continued use implies acceptance  
+• Major changes will be communicated in-app  
+
+─────────────────────────────────────────────
+
+7. TERMINATION  
+
+• You may stop using the app at any time  
+• We may suspend accounts that violate terms  
+• Data can be deleted upon request  
+
+─────────────────────────────────────────────
+
+8. GOVERNING LAW  
+
+These terms are governed by the applicable laws in your country or region.
+
+═══════════════════════════════════════════
+
+HEALTH & WELLNESS DISCLAIMER  
+Cozy Rain is intended for relaxation, focus, and meditation. It does not replace medical advice or treatment. Discontinue use if discomfort occurs.
+
+═══════════════════════════════════════════
+
+ACCESSIBILITY  
+We are committed to accessibility. If you face difficulties using the app, contact us at:  
+✉️ johntrek120@gmail.com
+
+═══════════════════════════════════════════
+
+Thank you for choosing Cozy Rain for your relaxation journey! 🌧️
+
+═══════════════════════════════════════════''';
+  }
+}
