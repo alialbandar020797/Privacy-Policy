@@ -10,7 +10,8 @@ We respect your privacy and are committed to protecting your data. We may collec
 • Event tracking (e.g., which sounds are played, time spent on features)  
 • Sound preferences and app settings  
 • Subscription and free trial status (e.g., plan type, cancellation status)  
-• Crash logs and device diagnostics (via Firebase Crashlytics)  
+• Crash logs and device diagnostics (via Firebase Crashlytics) 
+• Advertising ID (used by Firebase services for analytics and performance tracking) 
 • Device type, OS version, model (for compatibility and performance)  
 • Notification and permission settings (to personalize alerts and functionality)  
 • Approximate or precise location (only if user grants permission, used for weather only)  
@@ -189,4 +190,5 @@ Thank you for choosing Cozy Rain for your relaxation journey! 🌧️
 ═══════════════════════════════════════════''';
   }
 }
+
 
